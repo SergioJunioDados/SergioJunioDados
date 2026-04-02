@@ -13,7 +13,7 @@ Sou um profissional com trajetória sólida em **Gestão Administrativa Sênior*
 ---
 
 ### 📂 Projetos em Destaque:
-* [**Assistente de Metas com IA**](projeto-hipertrofia.md): Planejamento de 3 meses estruturado com IA para ganho de massa, unindo saúde e produtividade.
+* [**Assistente de Metas com IA**]projeto-hipertrofia.md: Planejamento de 3 meses estruturado com IA para ganho de massa, unindo saúde e produtividade.
 
 ---
 
