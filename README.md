@@ -18,7 +18,7 @@ Sou um profissional com trajetória sólida em **Gestão Administrativa Sênior*
 ---
 
 ### 📫 Vamos nos conectar?
-- 💼 [**Meu LinkedIn**]https://www.linkedin.com/feed/
+- 💼 [**Meu LinkedIn**]https://www.linkedin.com/in/sergio-junio-dados/
 - 🎓 [**Meu Perfil na DIO**](https://dio.me)
 
 ---
